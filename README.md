@@ -35,16 +35,8 @@ https://sites.google.com/view/philippeguerrier/home
 
 ---
 
-## Certifications
-
-DeepLearning.AI, Google, IBM, Microsoft, AWS (28+ across Deep Learning, Generative AI, Data Analytics, Agile/DevOps).  
-Details in the portfolio.
-
----
-
 ## Contact
 
-- GitHub: https://github.com/Philippe-Guerrier  
 - Portfolio: https://sites.google.com/view/philippeguerrier/home
 
 ---
