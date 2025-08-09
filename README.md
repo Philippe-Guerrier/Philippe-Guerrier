@@ -21,7 +21,6 @@ https://sites.google.com/view/philippeguerrier/home
 
 ## Highlights
 
-- Built end-to-end data/ML prototypes that are easy to run locally and explain to non-technical stakeholders.  
 - Applied ML to real-world optimization (e.g., menu design and operations) with measurable gains in satisfaction, cost, and revenue.  
 - Organized AI events and produced post-event documentation and training follow-ups (AI & Law at Dau’IA; SCIS at Sorbonne).
 
