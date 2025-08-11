@@ -1,4 +1,4 @@
-# Philippe Guerrier — Data & AI
+# Philippe Guerrier - Data & AI
 I try to build practical data systems and ML applications with a focus on efficiency, offline capability, and clear business impact. My background spans Data Science, Analytics, and Information Systems.
 
 - Languages: English, French, German (B2/C1)
