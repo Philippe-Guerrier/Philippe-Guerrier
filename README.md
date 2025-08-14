@@ -8,7 +8,7 @@ I try to build practical data systems and ML applications with a focus on effici
 
 ## Selected Projects
 
-- **PulseFlow AI — Offline Music Recommender & Recognizer**  
+- **PulseFlow AI - Offline Music Recommender & Recognizer**  
   Local, Shazam-style audio fingerprinting and CLAP-based embedding search with FAISS, plus LLM-generated transition notes. Runs fully on device via Ollama/HF small models.
 
 - **Real-Time Market Sentiment Dashboard**  
@@ -28,8 +28,8 @@ https://sites.google.com/view/philippeguerrier/home
 
 ## Education
 
-- M.Sc. Data Science — Université Paris Dauphine – PSL  
-- M.Sc. Data Science in International Strategy & Competitive Intelligence — Panthéon-Sorbonne  
+- M.Sc. Data Science - Université Paris Dauphine - PSL  
+- M.Sc. Data Science in International Strategy & Competitive Intelligence - Panthéon-Sorbonne  
 - B.Sc. track in Math/Finance/Economics with Data Science studies (Paris-Saclay; exchange in Bielefeld, Germany)
 
 ---
