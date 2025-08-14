@@ -14,7 +14,10 @@ I try to build practical data systems and ML applications with a focus on effici
 - **Real-Time Market Sentiment Dashboard**  
   Dash app that fetches NewsAPI/Reddit, runs DistilBERT and TextBlob sentiment in parallel, and generates short market write-ups with GPT-2. Focus on fast preprocessing and clean UI.
 
-For more, see my portfolio:  
+You canalso find these information on my Github page:
+https://philippe-guerrier.github.io/
+
+For more, see my portfolio (complete information):  
 https://sites.google.com/view/philippeguerrier/home
 
 ---
