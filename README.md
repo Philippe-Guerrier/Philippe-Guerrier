@@ -31,9 +31,10 @@ https://sites.google.com/view/philippeguerrier/home
 
 ## Education
 
-- M.Sc. Data Science - Université Paris Dauphine - PSL  
-- M.Sc. Data Science in International Strategy & Competitive Intelligence - Panthéon-Sorbonne  
-- B.Sc. track in Math/Finance/Economics with Data Science studies (Paris-Saclay; exchange in Bielefeld, Germany)
+- M.Sc. Data Science - Université Paris Sciences & Lettres - Université Paris Dauphine - PSL  
+- M.Sc. Data Science in International Strategy & Competitive Intelligence - Panthéon-Sorbonne
+- B.Sc. track in Data Science with Economics - Universität Bielefeld
+- B.Sc. track in Math/Finance/Economics with Data Science studies - Paris-Saclay
 
 ---
 
